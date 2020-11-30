@@ -1,0 +1,193 @@
+{
+    "propertyInfo": {
+        "beds": 3,
+        "baths": 3.5,
+        "garages": 3,
+        "address": "1118 Majestic Canyon St, Henderson, NV 89052",
+        "sqft": 3285,
+        "price": 570000,
+        "coordination": [-115.12412, 35.98816],
+        "about": "Modern family appointments. The Ashton's welcoming stepped covered entry flows into the inviting foyer, revealing views of the spacious great room, dining room, and desirable luxury outdoor living space beyond. The well-designed kitchen is equipped with a large center island with breakfast bar, plenty of counter and cabinet space, and sizable walk-in pantry. The bright primary bedroom suite is enhanced by a generous walk-in closet and deluxe primary bath with dual-sink vanity, large soaking tub, luxe glass-enclosed shower, and private water closet. Spacious secondary bedrooms feature ample closets and shared full hall bath. Additional highlights include a centrally located laundry, and additional storage throughout.",
+        "featureabout": "The Saffron features a first-floor owner’s suite and an optional covered patio so you can extend your outdoor time, rain or shine. Handcrafted cabinetry is found in the kitchen and baths. A game room is the perfect study or play room for the kids, or can be optioned to a fifth bedroom.",
+        "matterport": "https://my.matterport.com/show/?m=aA6sAPzS7BK&qs=1&play=1&brand=0&vr=0&dh=0&nozoom=1&wh=0"
+    },
+    "propertyFacts": [
+        {
+            "title": "Interior Details",
+            "desc": "Curabitur aliquet nunc id ultrices cursus",
+            "list": [
+                {
+                    "title": "Number of Bedrooms",
+                    "value": 3
+                },
+                {
+                    "title": "Number of Bathrooms",
+                    "value": 3.5
+                },
+                {
+                    "title": "Square footage",
+                    "value": 2364
+                },
+                {
+                    "title": "Flooring",
+                    "value": "Tile, Carpet, Linoleum / Vinyl"
+                },
+                {
+                    "title": "Heating",
+                    "value": "Forced air"
+                },
+                {
+                    "title": "Cooling",
+                    "value": "Central"
+                }
+            ]
+        },
+        {
+            "title": "Property Details",
+            "desc": "Orci varius natoque penatibus et magnis",
+            "list": [
+                {
+                    "title": "Parking spaces",
+                    "value": 2
+                },
+                {
+                    "title": "Garage spaces",
+                    "value": 2
+                },
+                {
+                    "title": "Parking features",
+                    "value": "Built-in, Covered"
+                },
+                {
+                    "title": "Stories",
+                    "value": 1
+                },
+                {
+                    "title": "Exterior features",
+                    "value": "Stucco"
+                },
+                {
+                    "title": "Lot size",
+                    "value": 3049
+                }
+            ]
+        },
+        {
+            "title": "Construction Details",
+            "desc": "Quis varius purus commodo at lorem eros",
+            "list": [
+                {
+                    "title": "Home type",
+                    "value": "Single Family"
+                },
+                {
+                    "title": "Year built",
+                    "value": 2013
+                },
+                {
+                    "title": "Builder Name",
+                    "value": "Toll Brothers"
+                },
+                {
+                    "title": "Remodel year",
+                    "value": "--"
+                },
+                {
+                    "title": "Roof Details:",
+                    "value": "Tile"
+                },
+                {
+                    "title": "Utilities",
+                    "value": "wired"
+                }
+            ]
+        },
+        {
+            "title": "Home Owner Association Details",
+            "desc": "Morbi in risus sed massa vehicula gravida nec non sapien",
+            "list": [
+                {
+                    "title": "Has HOA",
+                    "value": "True"
+                },
+                {
+                    "title": "Association Fee",
+                    "value": "$135 / Month"
+                },
+                {
+                    "title": "Association Name",
+                    "value": "Gemini Pointe"
+                },
+                {
+                    "title": "Gated Community",
+                    "value": "Yes"
+                },
+                {
+                    "title": "Community pool",
+                    "value": "No"
+                },
+                {
+                    "title": "Fitness center",
+                    "value": "No"
+                }
+            ]
+        }
+    ],
+    "backgroundImages": [
+        "https://cdn.tollbrothers.com/models/ashton_11231_/elevations/8775Exterior_1920.jpg",
+        "https://cdn.tollbrothers.com/models/ashton_11231_/gallery/9853Entry_1920.jpg",
+        "https://cdn.tollbrothers.com/models/ashton_11231_/gallery/9981Greatroom_1920.jpg",
+        "https://cdn.tollbrothers.com/models/ashton_11231_/gallery/0016Kitchen_1920.jpg",
+        "https://cdn.tollbrothers.com/models/ashton_11231_/gallery/9786Master_1920.jpg"
+    ],
+    "highlights": [
+        {
+            "title": "1,929 finished square feet, 3,285 total",
+            "desc": "Nam at ullamcorper magna. Nulla quis efficitur velit. Morbi blandit nisl et congue bibendum. Pellentesque finibus turpis est, et ultrices libero tempus."
+        },
+        {
+            "title": "Expansive sliding doors open home up to rear covered patio",
+            "desc": "Nam at ullamcorper magna. Nulla quis efficitur velit. Morbi blandit nisl et congue bibendum. Pellentesque finibus turpis est, et ultrices libero tempus."
+        },
+        {
+            "title": "Luxurious primary bath with large walk-in closet",
+            "desc": "Nam at ullamcorper magna. Nulla quis efficitur velit. Morbi blandit nisl et congue bibendum. Pellentesque finibus turpis est, et ultrices libero tempus."
+        },
+        {
+            "title": "Well-proportioned secondary bedrooms",
+            "desc": "Nam at ullamcorper magna. Nulla quis efficitur velit. Morbi blandit nisl et congue bibendum. Pellentesque finibus turpis est, et ultrices libero tempus."
+        }
+    ],
+    "structualBreakdown": [
+        {
+            "title": "Front Entry",
+            "desc": "Donec tortor ante, posuere in rhoncus id, interdum nec nunc. Pellentesque tincidunt magna vitae vehicula consequat. Praesent rutrum faucibus augue eget pellentesque. Duis non sapien elementum, convallis urna at, tristique sem.",
+            "images": [
+                "https://cdn.tollbrothers.com/models/ashton_11231_/gallery/9853Entry_1800.jpg",
+                "https://cdn.tollbrothers.com/models/ashton_11231_/gallery/9981Greatroom_1800.jpg"
+            ]
+        },
+        {
+            "title": "Living Room",
+            "desc": "Curabitur aliquet nunc id ultrices cursus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec interdum ligula in lorem cursus rutrum. Integer ullamcorper lorem eros, quis varius purus commodo at. Etiam lorem diam",
+            "images": [
+                "https://cdn.tollbrothers.com/models/ashton_11231_/gallery/0016Kitchen_1800.jpg",
+                "https://cdn.tollbrothers.com/models/ashton_11231_/gallery/9877Hall_1800.jpg"
+            ]
+        },
+        {
+            "title": "Dinning Room",
+            "desc": "Suspendisse bibendum, lacus sed mollis laoreet, massa tellus posuere massa, ut aliquam lorem tellus sit amet erat. Vestibulum pharetra enim tempor semper commodo. Pellentesque vestibulum nunc quis libero rhoncus, ut aliquam justo efficitur.",
+            "images": [
+                "https://cdn.tollbrothers.com/models/ashton_11231_/gallery/9786Master_1800.jpg"
+            ]
+        },
+        {
+            "title": "Bedroom 1",
+            "desc": "Sed efficitur lorem mollis, bibendum velit sit amet, imperdiet quam. Mauris lobortis ipsum ante, a malesuada ipsum lacinia vitae. Ut tempor a nisl vel aliquet. Morbi in risus sed massa vehicula gravida nec non sapien.",
+            "images": [
+                "https://cdn.tollbrothers.com/models/ashton_11231_/gallery/9817MBath_1800.jpg"
+            ]
+        }
+    ]
+}
